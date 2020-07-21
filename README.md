@@ -11,7 +11,7 @@ For this bot to work, you need to input your own bot's token and channel id unde
 ## Example
 Sample of a message sent using this script
 
-![sample.png](./sample.png)
+![sample.png](./misc/sample.png)
 
 ## Uses
 - Coupling this with crontab allows you to schedule regular market updates delivered at the time of your choosing. 
