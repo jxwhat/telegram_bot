@@ -1,0 +1,20 @@
+__{weekday_today} market roundup - {msg_date} (AM)__
+By {author_name}
+
+*US*
+The S&P 500 {spx}, the Dow Jones Industrial Average {dji}, and the NASDAQ Composite {ndq} on {weekday}. 
+
+Among the tech heavyweights, Facebook Inc {fb}, Amazon.com Inc {amzn}, Apple Inc {aapl}, and Alphabet Inc {goog}. 
+
+*UK*
+The FTSE 100 {ftse} on {weekday}. 
+
+*Europe*
+On {weekday} the pan-European Stoxx 600 {sxxp}, while the blue-chip Stoxx 50 index {sx5e}. The CAC 40 {cac} in Paris, while the DAX {dax} in Frankfurt. 
+
+*Others*
+As of {now}:
+{gcf} futures {gcfs}.
+{clf} contracts {clfs}
+Ten-year treasury yields {tnx}.
+USD/SGD {sgdx}.

@@ -1,0 +1,33 @@
+__{weekday} market roundup - {msg_date} (PM)__
+By {author_name}
+
+*Singapore* 
+The Straits Times Index {sti}.
+
+The banking trio were {bank_mvmt}; DBS {dbs}, OCBC {ocbc}, and UOB {uob}.
+
+*Hong Kong*
+The Hang Seng Index {hsi}.
+
+*China*
+The CSI 300 {csi}, while the SSE Composite index {sse}. The tech-heavy Chinext Price Index {chnxt}.
+
+*Japan*
+The Nikkei 225 {n225}.
+
+*Australia*
+The ASX 200 {asx}, while the broader All Ordinaries Index {aord}.
+
+*UK*
+The FTSE 100 {ftse} as of {now}. 
+
+*Europe*
+As of {now}, the pan-European Stoxx 600 {sxxp}, while the blue-chip Stoxx 50 index {sx5e}. Elsewhere, the CAC 40 {cac} in Paris, while the DAX {dax} in Frankfurt. 
+
+*Others*
+As of {now}:
+{spf} futures {spfs}. {nqf} futures {nqfs}. 
+{gcf} futures {gcfs}.
+{clf} contracts {clfs}
+Ten-year treasury yields {tnx}.
+USD/SGD {sgdx}.
