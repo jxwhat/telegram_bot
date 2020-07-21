@@ -5,7 +5,7 @@ The `telebot.ipynb` notebook that walks you through how the bot does its job.
 
 Scripts that power the bot is located in the `jx_telebot.py` file 
 
-For this bot to work, you need to input your own bot's token and channel id under the ```python class telegram_bot```.  
+For this bot to work, you need to input your own bot's token and channel id under the ` class telegram_bot`.  
 
 ## Example
 Sample of a message sent using this script
