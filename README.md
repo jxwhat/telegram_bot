@@ -1,5 +1,4 @@
-# telegram_bot
-## Welcome to JX's telegram bot
+# Welcome to JX's telegram bot
 This repo contains scripts to operate a Telegram bot which is used to gather and disseminate financial information via the Telegram messenger app.
 
 The `telebot.ipynb` notebook that walks you through how the bot does its job. 
