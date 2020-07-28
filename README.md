@@ -1,6 +1,8 @@
 # Welcome to JX's telegram bot
 This repo contains scripts to operate a Telegram bot which is used to gather and disseminate financial information via the Telegram messenger app.
 
+My current live version is up and running at https://t.me/joinchat/AAAAAFBPVOZ4yuGxOEGVaw 
+
 The `telebot.ipynb` notebook that walks you through how the bot does its job. 
 
 Scripts that power the bot is located in the `jx_telebot.py` file 
